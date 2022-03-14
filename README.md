@@ -9,6 +9,13 @@ Thanks goes to these wonderfull people ✨
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/Onitsiky">
+            <img src="https://avatars.githubusercontent.com/u/98632897?v=4" width="100;" alt="Onitsiky"/>
+            <br />
+            <sub><b>Onitsiky</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Harrylepap">
             <img src="https://avatars.githubusercontent.com/u/17026924?v=4" width="100;" alt="Harrylepap"/>
             <br />
